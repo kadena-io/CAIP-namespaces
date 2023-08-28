@@ -79,12 +79,12 @@ kadena:development:38298612cc2d5e841a232bd08413aa5304f9ef3251575ee182345abc3807d
 
 ## References
 
-[Kadena's WalletConnect Specification (KIP-0017)](https://github.com/kadena-io/KIPs/blob/master/kip-0017.md)
-[Introducing Kadena Account Protocols (KIP-0012)](https://medium.com/kadena-io/introducing-kadena-account-protocols-kip-0012-303462b77af1)
-[What are Principal in Pact?](https://gist.github.com/EnoF/fdf5b4e783f8e55a4ece078b1d215fc9)
-[Pact Documentation](https://pact-language.readthedocs.io/en/stable/)
-[CAIP-2]: https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-2.md
-[CAIP-10]: https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-10.md
+- [Kadena's WalletConnect Specification (KIP-0017)](https://github.com/kadena-io/KIPs/blob/master/kip-0017.md)
+- [Introducing Kadena Account Protocols (KIP-0012)](https://medium.com/kadena-io/introducing-kadena-account-protocols-kip-0012-303462b77af1)
+- [What are Principal in Pact?](https://gist.github.com/EnoF/fdf5b4e783f8e55a4ece078b1d215fc9)
+- [Pact Documentation](https://pact-language.readthedocs.io/en/stable/)
+- [CAIP-2](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-2.md)
+- [CAIP-10](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-10.md)
 
 ## Rights
 
